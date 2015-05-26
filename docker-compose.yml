@@ -3,4 +3,4 @@ web:
   volumes:
     - .:/usr/src/app
   ports:
-    - "3019:3000"
+    - "3020:3000"
